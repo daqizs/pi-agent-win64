@@ -1,0 +1,10 @@
+node_modules/
+*.bak
+*.bak-*
+*.log
+*.tmp
+*.db
+*.db-wal
+*.db-shm
+auth.json
+dist-release/

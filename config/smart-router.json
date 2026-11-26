@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "aliases": {
+    "flash": "wbk/cn:deepseek-v4.1-flash",
+    "pro": "wbk/cn:deepseek-v4-pro",
+    "opus": "codecraft/claude-opus-5"
+  },
+  "thinkingKeywords": {
+    "ultrathink": "high",
+    "chillax": "off"
+  }
+}

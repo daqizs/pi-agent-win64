@@ -1,0 +1,15 @@
+{
+  "mode": "wb",
+  "wbDuration": false,
+  "resultDigest": true,
+  "fixHint": true,
+  "errorLines": 3,
+  "detailLines": 6,
+  "expandedMaxLines": 4000,
+  "trimOldResults": true,
+  "keepRecentResults": 8,
+  "validateImages": true,
+  "thinkingLabel": "思考中…",
+  "enforceVerify": true,
+  "autoPatchPi": true
+}

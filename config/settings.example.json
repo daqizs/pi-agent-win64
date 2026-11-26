@@ -1,0 +1,37 @@
+{
+  "defaultModel": "cn:deepseek-v4.1-flash",
+  "defaultProvider": "wbk",
+  "defaultThinkingLevel": "medium",
+  "hideThinkingBlock": true,
+  "tuiMode": "fullscreen",
+  "lastChangelogVersion": "1.6.1",
+  "defaultTools": [
+    "+grep",
+    "+codemode",
+    "+ls",
+    "+find"
+  ],
+  "enabledModels": [
+    "wbk/cn:deepseek-v4.1-flash",
+    "wbk/cn:deepseek-v4-pro",
+    "codecraft/claude-opus-5"
+  ],
+  "packages": [
+    "npm:@narumitw/pi-lsp",
+    "npm:pi-subagents",
+    "npm:pi-web-access",
+    "npm:pi-background-tasks@2.6.10",
+    "npm:@estebanforge/pi-codegraph-enhanced",
+    "npm:@walterra/pi-charts",
+    "npm:pi-hashline-edit-pro"
+  ],
+  "theme": "dark",
+  "extensionChangelogVersions": {
+    "{\"source\":\"npm:pi-subagents@0.79.1\",\"scope\":\"user\"}": "0.79.1",
+    "{\"source\":\"npm:pi-web-access@0.42.0\",\"scope\":\"user\"}": "0.42.0",
+    "{\"source\":\"npm:@estebanforge/pi-codegraph-enhanced\",\"scope\":\"user\"}": "1.1.3",
+    "{\"source\":\"npm:pi-subagents\",\"scope\":\"user\"}": "0.90.0",
+    "{\"source\":\"npm:@narumitw/pi-lsp\",\"scope\":\"user\"}": "0.49.12",
+    "{\"source\":\"npm:pi-web-access\",\"scope\":\"user\"}": "0.48.0"
+  }
+}
